@@ -1,2 +1,0 @@
-# zineks.github.io
-Test
