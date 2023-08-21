@@ -1,0 +1,21 @@
+body {
+    background-color: #111414;
+}
+
+.middle {
+    text-align: center;
+}
+
+#blin {
+    pointer-events: none;
+    user-select: none;
+
+}
+
+#name {
+    font-family: TTNormsBold;
+    color: #e1e5eb;
+    font-size: 60px;
+    text-align: center;
+    margin-top: 0
+}

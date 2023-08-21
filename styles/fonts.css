@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'TTNormsBlack';
+    src: local('TTNorms-Black'),
+        url(fonts/TTNorms-Black.ttf);
+}
+
+@font-face {
+    font-family: 'TTNormsBold';
+    src: local('TTNorms-Bold'),
+        url(fonts/TTNorms-Bold.ttf);
+}
+
+@font-face {
+    font-family: 'VKSansDisplayBold';
+    src: local('VKSansDisplay-Bold'),
+        url(fonts/VKSansDisplay-Bold.ttf);
+}
